@@ -16,8 +16,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Reflection.Emit;
-
-
 namespace WindowsFormsApp4
 {
     public partial class Form1 : Form
